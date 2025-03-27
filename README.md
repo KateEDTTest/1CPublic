@@ -1,2 +1,0 @@
-# 1CPublic
-Test public
